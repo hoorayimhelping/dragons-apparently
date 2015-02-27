@@ -1,3 +1,1 @@
-A collection of scripts for quickly developing html5 game prototypes
-
-js/game_controller.js is where you should put your game and render logic.
+The first pass at making a [dragon curve](http://en.wikipedia.org/wiki/Dragon_curve)
